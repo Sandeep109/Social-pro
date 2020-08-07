@@ -1,0 +1,64 @@
+.he2 {
+    background-color: bisque;
+    padding: 2px;
+    padding-left: 50px;
+
+}
+.he1 {
+    background-color: blanchedalmond;
+    padding: 2px;
+    padding-left: 50px;
+}
+.ph1 {
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    padding: 50px;
+}
+
+.tx1 {
+    background-color: antiquewhite;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border-collapse: collapse;
+}
+
+.ph2{
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    padding: 50px;
+
+}
+
+.tx2{
+
+    display: flex;
+flex-direction: column;
+justify-content: start;
+align-items: flex-start;
+border-collapse: collapse;
+
+padding-left: 50px;
+}
+.tx3{    
+ 
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+    
+}
+
+h4{    
+    padding: 0%;
+    line-height: 0.3;
+} 
